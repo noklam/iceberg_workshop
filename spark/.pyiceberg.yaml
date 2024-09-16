@@ -19,5 +19,5 @@
 catalog:
     default:
         uri: https://polaris-catalog:8181
-        s3.access-key-id: AKIA3EL7ISXTVKXSXQN5
-        s3.secret-access-key: 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
+        s3.access-key-id: 
+        s3.secret-access-key: 
